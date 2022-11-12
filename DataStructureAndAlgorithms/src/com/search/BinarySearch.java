@@ -25,7 +25,6 @@ public class BinarySearch {
 				low=mid+1;
 			if( data.data[mid]> Search)
 				high=mid-1;
-			
 		}
 	}
 
